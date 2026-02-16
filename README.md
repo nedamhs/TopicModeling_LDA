@@ -15,7 +15,7 @@ See the full implementation and results in [LDA.ipynb](LDA.ipynb).
 
 ## Acknowledgment
 
-Collapsed Gibbs sampling implementation adapted from CS179 course material by Prof. Alexander Ihler.
+Collapsed Gibbs sampling implementation borrowed & adapted from CS179 course material by Prof. Alexander Ihler.
 
 
 
