@@ -1,4 +1,4 @@
-# TopicModeling_LDA
+# PubMed TopicModeling 
 
 Latent Dirichlet Allocation (LDA) applied to 2,000 PubMed abstracts using collapsed Gibbs sampling to discover 20 latent biomedical topics.
 
