@@ -1,6 +1,17 @@
+pandas==2.3.3
+matplotlib==3.9.4
+tqdm==4.67.3
 datasets==4.2.0
-numpy
-pandas
-matplotlib
+nltk==3.9.2
+numpy==1.26.4
+spacy==3.7.2
+scispacy==0.6.2
+gensim==4.4.0
+wordcloud==1.9.6
+setuptools==82.0.0
+scipy==1.13.1
+
 ipython
-tqdm
+
+en-core-sci-md @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_md-0.5.4.tar.gz
+
